@@ -1,106 +1,67 @@
 <p align="center">
   <a href="https://github.com/mabenankemdilim-ctrl">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=9B72CF&fontSize=54&height=90&width=650&text=Hello!%20I'm%20Nkem%20%E2%9C%A7" alt="Hello! I'm Nkem" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=9B72CF&fontSize=50&height=85&width=650&text=Hello!%20I'm%20Nkem%20%E2%8B%86.%F0%90%99%9A%20%CC%8A" alt="Hello! I'm Nkem ⋆.𐙚 ̊" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1200&color=D98BB5&center=true&vCenter=true&width=500&height=44&lines=Statistics+Graduate+%E2%9C%A6;Aspiring+Data+Analyst+%E2%9C%A7;A+reader+with+a+love+for+good+data+%E2%99%A1" alt="Typing headlines" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Statistics-9B72CF?style=flat-square&logoColor=white" alt="Statistics" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-D98BB5?style=flat-square&logoColor=white" alt="Data Analysis" />
-  <img src="https://img.shields.io/badge/SQL-C9A7E8?style=flat-square&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Reading-F3C6DC?style=flat-square&logoColor=white" alt="Reading" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=24&pause=1200&color=D98BB5&center=true&vCenter=true&width=500&height=40&lines=B.S.+Statistics+Graduate+%E2%9C%A6;Aspiring+Data+Analyst+%E2%9C%A7;A+reader+with+a+love+for+clean+data+%E2%99%A1" alt="Typing headlines" />
 </p>
 
 ---
 
 ### 🎀 About Me
 
-Hi! I'm **Nkem**, a Statistics graduate interested in turning data into something useful, understandable, and — ideally — a little less intimidating.
+I'm a **Statistics graduate** focused on translating raw numbers into clear, actionable insights. I like clean data pipelines, well-structured files, and double-checking the numbers.
 
-I'm currently building my skills in **SQL and Python**, while continuing to work with **R, statistical analysis, and data visualization**.
-
-When I'm not working with data, you'll probably find me reading a book. I especially enjoy **classics, literary fiction, and horror**. ♡
-
-* ۶ৎ **Background:** Bachelor of Science in Statistics
-* ۶ৎ **Currently learning:** SQL & Python
-* ۶ৎ **Interested in:** Data Analysis, Statistics & Forecasting
-* ۶ৎ **Outside of data:** Reading, organizing things, and tracking statistics.
-* ۶ৎ **Personal motto:** Keep it organized, make it meaningful, and check the numbers twice.
+* ۶ৎ **Focus:** Data Analysis, Statistical Modeling & Forecasting
+* ۶ৎ **Currently building with:** SQL, Python, R, and Power BI
+* ۶ৎ **Outside the terminal:** Literary fiction, horror novels, and tracking reading stats
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/SQL-9B72CF?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/R-BB8ED0?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/Python-D98BB5?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-C9A7E8?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/VS%20Code-E5B5D0?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Python-AC80D5?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-BD8EDA?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Power%20BI-CE9CDF?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-D98BB5?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/PostgreSQL-E3A2C4?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/VS%20Code-EDB9D3?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-### 🕯️ A Little More About Me
-
-<table>
-  <tr>
-    <td>📈</td>
-    <td><b>Statistics</b></td>
-    <td>I enjoy finding patterns, making sense of uncertainty, and asking what the numbers are actually saying.</td>
-  </tr>
-  <tr>
-    <td>🗂️</td>
-    <td><b>Organization</b></td>
-    <td>I like structured workflows, clean files, and knowing exactly where everything is.</td>
-  </tr>
-  <tr>
-    <td>📚</td>
-    <td><b>Reading</b></td>
-    <td>A lifelong reader with a soft spot for classics, literary fiction, and wonderfully disturbing horror.</td>
-  </tr>
-  <tr>
-    <td>💻</td>
-    <td><b>Learning</b></td>
-    <td>Currently expanding my toolkit with SQL and Python and building practical data projects along the way.</td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=mabenankemdilim-ctrl&show_icons=true&theme=default&title_color=9B72CF&icon_color=D98BB5&text_color=6B6175&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=mabenankemdilim-ctrl&layout=compact&theme=default&title_color=9B72CF&icon_color=D98BB5&text_color=6B6175&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mabenankemdilim-ctrl&bg_color=00000000&color=9B72CF&line=D98BB5&point=9B72CF&area=true&hide_border=true" alt="GitHub contribution graph" />
+  <img height="160" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=mabenankemdilim-ctrl&show_icons=true&theme=default&title_color=9B72CF&icon_color=D98BB5&text_color=9B72CF&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=mabenankemdilim-ctrl&layout=compact&theme=default&title_color=9B72CF&icon_color=D98BB5&text_color=9B72CF&hide_border=true&bg_color=00000000&langs_count=6" alt="Top languages" />
 </p>
 
 ---
 
-### 🦢 Let's Connect
+### 🔥 Github Statistics 
 
-<p align="left">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mabenankemdilim-ctrl&theme=transparent&hide_border=true&stroke=9B72CF&ring=D98BB5&fire=9B72CF&currStreakNum=9B72CF&sideNums=D98BB5&currStreakLabel=9B72CF&sideLabels=D98BB5&dates=BB8ED0" alt="GitHub Streak" width="90%" />
+</p>
+
+---
+
+### 🦢 Connect with Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/nkemdilim-mabena" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-9B72CF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://app.thestorygraph.com/profile/nkem_mabena" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/StoryGraph-D98BB5?style=for-the-badge&logoColor=white" alt="StoryGraph" />
+    <img src="https://img.shields.io/badge/StoryGraph-D98BB5?style=for-the-badge&logo=thestorygraph&logoColor=white" alt="StoryGraph" />
   </a>
 </p>
 
 <p align="center">
-  <i>୨୧ Thanks for stopping by ♡</i>
-</p>
-<p align="center">
-  <sub>Made with data, books, and an unreasonable love for organization.</sub>
+  <sub>୨୧ Made with data, books, and an unreasonable love for organization. ♡</sub>
 </p>
