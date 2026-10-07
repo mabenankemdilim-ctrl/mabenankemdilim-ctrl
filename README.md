@@ -16,7 +16,7 @@ I'm a **Statistics graduate** focused on translating raw numbers into clear, act
 
 * ۶ৎ **Focus:** Data Analysis, Statistical Modeling & Forecasting
 * ۶ৎ **Currently building with:** SQL, Python, R, and Power BI
-* ۶ৎ **Outside the terminal:** Literary fiction, horror novels, and tracking reading stats
+* ۶ৎ **Hobbies:** Literary fiction, horror novels, and tracking reading stats
 
 ---
 
