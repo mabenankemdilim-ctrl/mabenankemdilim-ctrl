@@ -54,6 +54,9 @@ I'm a **Statistics graduate** focused on translating raw numbers into clear, act
 ### 🦢 Connect with Me
 
 <p align="center">
+  <a href="mailto:mabenankemdilim@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-C47AC0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://www.linkedin.com/in/nkemdilim-mabena" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-9B72CF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
